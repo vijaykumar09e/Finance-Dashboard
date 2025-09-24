@@ -1,7 +1,6 @@
 # 💰 Power BI Finance Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue?logo=powerbi)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 A dynamic and interactive **Finance Dashboard** built with Microsoft Power BI to visualize and monitor key financial KPIs such as Sales, OPEX, EBIT, Gross Margin %, and more — across different **segments**, **countries**, and **products**.
@@ -10,9 +9,7 @@ A dynamic and interactive **Finance Dashboard** built with Microsoft Power BI to
 
 ## 📸 Dashboard Preview
 
-> 📌 *Replace with actual screenshot from your PBIX report*
-
-![Dashboard Screenshot](Finance Report.png)
+<img src="Finance Report.png" alt="Dashboard Screenshot" width="800"/>
 
 ---
 
